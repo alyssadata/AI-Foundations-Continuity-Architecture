@@ -1,4 +1,4 @@
-# PUBLIC-Continuity-Architecture
+# AI Foundations-Continuity-Architecture
 PUBLIC Continuity Architecture
 
-Placeholder for website to add continuity architecture for public
+Placeholder for website to add AI Foundations continuity architecture for public understanding
